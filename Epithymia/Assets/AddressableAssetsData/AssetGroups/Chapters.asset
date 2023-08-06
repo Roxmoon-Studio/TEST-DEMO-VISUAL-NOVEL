@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Chapters
+  m_EditorClassIdentifier: 
+  m_GroupName: Chapters
+  m_Data:
+    m_SerializedData: []
+  m_GUID: a2938332b53ab33499638ca01597ed6f
+  m_SerializeEntries:
+  - m_GUID: e58457c8e48c81c4fa665d48e5122cf1
+    m_Address: Assets/NovelChapters/Chapter_1 3.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8fc81b79d33bed948bf928216c511fe4
+    m_Address: Assets/NovelChapters/Chapter_1 0.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0b55513ad7d68c24fb742ce1f0e13376
+    m_Address: Assets/NovelChapters/Chapter_1 2.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 6a257bc30e9ceea4c85b5cad694020db, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 3f43585b545917047bf63f9cf53f1baa, type: 2}
+    - {fileID: 11400000, guid: c3a2b402fdc4dea4e9bebf57abfcdc37, type: 2}

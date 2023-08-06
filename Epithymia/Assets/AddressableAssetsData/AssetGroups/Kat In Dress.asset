@@ -1,0 +1,151 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Kat In Dress
+  m_EditorClassIdentifier: 
+  m_GroupName: Kat In Dress
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 46d835ce37d500c43b169e95ba12aa4b
+  m_SerializeEntries:
+  - m_GUID: 8579d50237cffe2439b7e98582428a26
+    m_Address: "\u041A\u044D\u0442 \u0432 \u043F\u043B\u0430\u0442\u044C\u0435"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e9501195941965840895dfcfcdee56cc
+    m_Address: "\u041A\u044D\u0442 \u0432\u043E\u0437\u043C\u0443\u0449\u0451\u043D\u043D\u0430\u044F
+      \u0432 \u043F\u043B\u0430\u0442\u044C\u0435 \u0441 \u0440\u0443\u043A\u043E\u0439
+      \u043D\u0430 \u0433\u0440\u0443\u0434\u0438"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f7faf3ad1c005a344a361edb6c34242e
+    m_Address: "\u041A\u044D\u0442 \u0433\u0440\u0443\u0441\u0442\u043D\u0430\u044F
+      \u0432 \u043F\u043B\u0430\u0442\u044C\u0435"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e0163da2c587ff5429a6b2a36cad146f
+    m_Address: "\u041A\u044D\u0442 \u0437\u0430\u0434\u0443\u043C\u0447\u0438\u0432\u0430\u044F
+      \u0432 \u043F\u043B\u0430\u0442\u044C\u0435 \u0441 \u0440\u0443\u043A\u043E\u0439
+      \u043D\u0430 \u0433\u0440\u0443\u0434\u0438"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e2494b35e03afdc42acedbdd05e966c9
+    m_Address: "\u041A\u044D\u0442 \u0437\u0430\u0434\u0443\u043C\u0447\u0438\u0432\u0430\u044F
+      \u0432 \u043F\u043B\u0430\u0442\u044C\u0435 \u0441\u043B\u043E\u0436\u0435\u043D\u043D\u044B\u0435
+      \u0440\u0443\u043A\u0438"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d8faaddc085dcc54ea86098bc85b5e23
+    m_Address: "\u041A\u044D\u0442 \u0438\u0441\u043F\u0443\u0433\u0430\u043D\u043D\u0430\u044F
+      \u0432 \u043F\u043B\u0430\u0442\u044C\u0435 \u0440\u0443\u043A\u0438 \u0432
+      \u0441\u0442\u043E\u0440\u043E\u043D\u044B"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bb5822f01cec1c2469de5417129843e5
+    m_Address: "\u041A\u044D\u0442 \u0438\u0441\u043F\u0443\u0433\u0430\u043D\u043D\u0430\u044F
+      \u0432 \u043F\u043B\u0430\u0442\u044C\u0435 \u0441 \u0440\u0443\u043A\u043E\u0439
+      \u043D\u0430 \u0433\u0440\u0443\u0434\u0438"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9d47fdde8dd28ba48b4cee2b0ef2699d
+    m_Address: "\u041A\u044D\u0442 \u0440\u0430\u0434\u043E\u0441\u0442\u043D\u0430\u044F
+      \u0432 \u043F\u043B\u0430\u0442\u044C\u0435 \u0440\u0443\u043A\u0438 \u0432
+      \u0441\u0442\u043E\u0440\u043E\u043D\u044B"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4c446d9e39c726a46aa012d5c5965879
+    m_Address: "\u041A\u044D\u0442 \u0440\u0430\u0434\u043E\u0441\u0442\u043D\u0430\u044F
+      \u0432 \u043F\u043B\u0430\u0442\u044C\u0435 \u0441 \u0440\u0443\u043A\u043E\u0439
+      \u043D\u0430 \u0433\u0440\u0443\u0434\u0438"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7fa0c5adc25a6294a8875e4781a76aae
+    m_Address: "\u041A\u044D\u0442 \u0440\u0430\u0441\u0442\u0435\u0440\u044F\u043D\u043D\u0430\u044F
+      \u0432 \u043F\u043B\u0430\u0442\u044C\u0435 \u0440\u0443\u043A\u0438 \u0441\u043B\u043E\u0436\u0435\u043D\u043D\u044B\u0435 "
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f35059efcfebd5441aeecee982bfcdae
+    m_Address: "\u041A\u044D\u0442 \u0440\u0430\u0441\u0442\u0435\u0440\u044F\u043D\u043D\u0430\u044F
+      \u0432 \u043F\u043B\u0430\u0442\u044C\u0435 \u0441 \u0440\u0443\u043A\u043E\u0439
+      \u043D\u0430 \u0433\u0440\u0443\u0434\u0438"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c2970a03b89b65246ace37de4ab2de43
+    m_Address: "\u041A\u044D\u0442 \u0441\u043C\u0443\u0449\u0451\u043D\u043D\u0430\u044F
+      \u0432 \u043F\u043B\u0430\u0442\u044C\u0435 \u0441 \u0440\u0443\u043A\u043E\u0439
+      \u043D\u0430 \u0433\u0440\u0443\u0434\u0438"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 064e1cc9d82b72047b9eb7921c1a5e47
+    m_Address: "\u041A\u044D\u0442 \u0441\u043F\u043E\u043A\u043E\u0439\u043D\u0430\u044F
+      \u0432 \u043F\u043B\u0430\u0442\u044C\u0435 \u0440\u0443\u043A\u0438 \u0432
+      \u0441\u0442\u043E\u0440\u043E\u043D\u044B"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1963b314a8013c04e9ad7c17ab1d8b8e
+    m_Address: "\u041A\u044D\u0442 \u0441\u043F\u043E\u043A\u043E\u0439\u043D\u0430\u044F
+      \u0432 \u043F\u043B\u0430\u0442\u044C\u0435 \u0441\u043B\u043E\u0436\u0435\u043D\u043D\u044B\u0435
+      \u0440\u0443\u043A\u0438"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 43b8b7351bbacbf498100c58a50a1c46
+    m_Address: "\u041A\u044D\u0442 \u0442\u0440\u0435\u0432\u043E\u0436\u043D\u0430\u044F
+      \u0432 \u043F\u043B\u0430\u0442\u044C\u0435 \u0441 \u0440\u0443\u043A\u043E\u0439
+      \u043D\u0430 \u0433\u0440\u0443\u0434\u0438"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9efcd09a3d6cf7340bf13464a480cf7a
+    m_Address: "\u041A\u044D\u0442 \u0442\u0440\u0435\u0432\u043E\u0436\u043D\u0430\u044F
+      \u0432 \u043F\u043B\u0430\u0442\u044C\u0435 \u0441\u043B\u043E\u0436\u0435\u043D\u043D\u044B\u0435
+      \u0440\u0443\u043A\u0438"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 06a3078cd1514eb4dafcd47b674b4be0
+    m_Address: "\u041A\u044D\u0442 \u0443\u0434\u0438\u0432\u043B\u0451\u043D\u043D\u0430\u044F
+      \u0432 \u043F\u043B\u0430\u0442\u044C\u0435 \u0440\u0443\u043A\u0438 \u0432
+      \u0441\u0442\u043E\u0440\u043E\u043D\u0443"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 71bad3bc07b26844e8739ca77587baf9
+    m_Address: "\u041A\u044D\u0442 \u0443\u0434\u0438\u0432\u043B\u0451\u043D\u043D\u0430\u044F
+      \u0432 \u043F\u043B\u0430\u0442\u044C\u0435 \u0441 \u0440\u0443\u043A\u043E\u0439
+      \u0443 \u0433\u0440\u0443\u0434\u0438"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1d7fede27595a6942b39de1f845ab7df
+    m_Address: "\u041A\u044D\u0442 \u0443\u0441\u0442\u0430\u0432\u0448\u0430\u044F
+      \u0432 \u043F\u043B\u0430\u0442\u044C\u0435 \u0441 \u0440\u0443\u043A\u043E\u0439
+      \u043D\u0430 \u0433\u0440\u0443\u0434\u0438"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ec670e0d7dd1f9e4fb4ad70a6da8a021
+    m_Address: "\u041A\u044D\u0442 \u0443\u0441\u0442\u0430\u0432\u0448\u0430\u044F
+      \u0432 \u043F\u043B\u0430\u0442\u044C\u0435 \u0441\u043B\u043E\u0436\u0435\u043D\u043D\u044B\u0435
+      \u0440\u0443\u043A\u0438"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6af6c8bb92bebf74db3f79dd39f0fe39
+    m_Address: "\u041A\u044D\u0442 \u0445\u043C\u0443\u0440\u0430\u044F \u0432 \u043F\u043B\u0430\u0442\u044C\u0435
+      \u0441 \u0440\u0443\u043A\u043E\u0439 \u043D\u0430 \u0433\u0440\u0443\u0434\u0438"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 248f0acdcb997e145852e717a1613ec4
+    m_Address: "\u041A\u044D\u0442 \u0445\u043C\u0443\u0440\u0430\u044F \u0432 \u043F\u043B\u0430\u0442\u044C\u0435
+      \u0441\u043B\u043E\u0436\u0435\u043D\u043D\u044B\u0435 \u0440\u0443\u043A\u0438"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 6a257bc30e9ceea4c85b5cad694020db, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 4e62c9f276a25484b975d6b54d5e1e13, type: 2}
+    - {fileID: 11400000, guid: 9e6093886ed3eea4bbdf23ab5a4dead7, type: 2}

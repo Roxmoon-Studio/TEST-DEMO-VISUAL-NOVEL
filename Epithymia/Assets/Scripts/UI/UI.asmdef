@@ -1,0 +1,33 @@
+{
+  "name": "UI",
+  "rootNamespace": "",
+  "references": [
+    "Audio",
+    "Core",
+    "Core.Actions",
+    "Core.Dialogues",
+    "Core.Configs",
+    "Logger",
+    "Scripts",
+    "Unity.Addressables",
+    "Unity.ResourceManager",
+    "Unity.TextMeshPro",
+    "UnityEngine.UI",
+    "UniTask",
+    "Utilities",
+    "VContainer",
+    "XNode",
+    "Attributes",
+    "SaveLoad",
+    "Textus.SerializeReferenceUI"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": true,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Backgrounds
+  m_EditorClassIdentifier: 
+  m_GroupName: Backgrounds
+  m_Data:
+    m_SerializedData: []
+  m_GUID: bc938bcd094a4144fa2526e9c596da3d
+  m_SerializeEntries:
+  - m_GUID: 70953a43f84075a419793c0f948aa80c
+    m_Address: "\u0410\u0440\u0445\u0438\u0432 \u0434\u043D\u0435\u0432\u043D\u043E\u0439"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+  - m_GUID: 12c872dfe2f5aa543a9a30b9982a7c71
+    m_Address: "\u0417\u0430\u043B \u043A\u043B\u0438\u043D\u0438\u043A\u0438"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+  - m_GUID: 206bb0da0e429574e871a7954f0c1d69
+    m_Address: "\u041A\u0430\u0431\u0438\u043D\u0435\u0442 \u0434\u0435\u043D\u044C"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+  - m_GUID: fcf4382dc90b0b04c9868f5986b6cdeb
+    m_Address: "\u041A\u0430\u0431\u0438\u043D\u0435\u0442 \u043D\u043E\u0447\u044C
+      \u0437\u0430\u043A\u0440\u044B\u0442\u044B\u0439"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+  - m_GUID: 494edd2ca5c2d99498124c13b6b33cfc
+    m_Address: "\u041A\u0432\u0430\u0440\u0442\u0438\u0440\u0430 \u0414\u0436\u0435\u0439\u043C\u0441\u0430"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+  - m_GUID: 3cd8441747a814c4092e14b84e3e2132
+    m_Address: "\u041A\u043E\u043C\u043D\u0430\u0442\u0430 \u043F\u0435\u0440\u0441\u043E\u043D\u0430\u043B\u0430 "
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+  - m_GUID: ae762650e04e3724c8f6efd50a59809b
+    m_Address: "\u041A\u043E\u0440\u0438\u0434\u043E\u0440 \u0434\u0435\u043D\u044C"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+  - m_GUID: da9e21b0bbda932439dae49f7f91eae8
+    m_Address: "\u041A\u043E\u0440\u0438\u0434\u043E\u0440 \u0437\u0430\u043A\u0440\u044B\u0442\u044B\u0439
+      \u043A\u043E\u0440\u043F\u0443\u0441 \u0434\u0435\u043D\u044C"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+  - m_GUID: 96474023bd9f3754a9bab33002543ffc
+    m_Address: "\u041A\u043E\u0440\u0438\u0434\u043E\u0440 \u0437\u0430\u043A\u0440\u044B\u0442\u044B\u0439
+      \u043A\u043E\u0440\u043F\u0443\u0441 \u043D\u043E\u0447\u044C"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+  - m_GUID: 589bafa4c75e57541885ba055aeba418
+    m_Address: "\u041A\u043E\u0440\u0438\u0434\u043E\u0440 \u043D\u043E\u0447\u044C"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+  - m_GUID: ae3c0bf63e63f00468c2430b58c67472
+    m_Address: "\u041D\u0430\u0431\u0435\u0440\u0435\u0436\u043D\u0430\u044F \u0434\u0435\u043D\u044C"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+  - m_GUID: 62a26a46062e17342bf07634095539a2
+    m_Address: "\u041D\u0430\u0431\u0435\u0440\u0435\u0436\u043D\u0430\u044F \u043D\u043E\u0447\u044C"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+  - m_GUID: 59326a70fa6292947b89e228cf4ab655
+    m_Address: "\u041E\u043F\u0435\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u0430\u044F
+      \u0434\u0435\u043D\u044C"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+  - m_GUID: 75f2613e42dce564290905fbb76ef7e9
+    m_Address: "\u041E\u043F\u0435\u0440\u0430\u0446\u0438\u043E\u043D\u043D\u0430\u044F
+      \u043D\u043E\u0447\u044C"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+  - m_GUID: 479e9df92ea6ca54e9c535a7d7bbf77e
+    m_Address: "\u041F\u0430\u043B\u0430\u0442\u0430 \u0434\u0435\u043D\u044C"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+  - m_GUID: 6ac29178b1ca9fb4c861ecc781abcfd5
+    m_Address: "\u041F\u0430\u043B\u0430\u0442\u0430 \u043D\u043E\u0447\u044C"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+  - m_GUID: 2d1669113a848d94dacea6e36e06d630
+    m_Address: "\u0421\u0430\u0434"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+  - m_GUID: 3fdb14a8ddcd145c1ac158194914b6ed
+    m_Address: "Assets/Sprites/Backgrounds/\u0417\u0430\u043B \u043A\u043B\u0438\u043D\u0438\u043A\u0438
+      \u0438\u043B\u043B\u044E\u0441\u0442\u0440\u0430\u0446\u0438\u044F.png"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+  - m_GUID: 1679c4a26357944309ed7958abc114ba
+    m_Address: "Assets/Sprites/Backgrounds/\u0410\u0437\u043E\u0440\u0438\u043D\u0442.png"
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Preload
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 6a257bc30e9ceea4c85b5cad694020db, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: d45a9f0cb95ac03479d860c161b4990e, type: 2}
+    - {fileID: 11400000, guid: a6b03576e6ae18943b5f720810617dd0, type: 2}

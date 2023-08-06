@@ -1,0 +1,22 @@
+{
+    "name": "Core.Dialogues",
+    "rootNamespace": "",
+    "references": [
+        "Core",
+        "Core.Actions",
+        "Scripts",
+        "UniTask",
+        "VContainer",
+        "XNode",
+        "Utilities"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

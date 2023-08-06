@@ -1,0 +1,23 @@
+{
+    "name": "Audio",
+    "rootNamespace": "",
+    "references": [
+        "Core",
+        "Core.Actions",
+        "UniTask",
+        "VContainer",
+        "XNode",
+        "Attributes",
+        "Logger",
+        "Utilities"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

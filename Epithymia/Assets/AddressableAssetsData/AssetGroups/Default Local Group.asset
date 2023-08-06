@@ -1,0 +1,250 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 248890ffd3452db4582c570c06d357f8
+  m_SerializeEntries:
+  - m_GUID: 12fdc78ac0642407a99315927f42b3a0
+    m_Address: "\u0441\u0438\u043B\u0443\u0435\u0442 \u043C\u0435\u0434\u0431\u0440\u0430\u0442"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3f8bca1e213767d48ba9fabd644d8de8
+    m_Address: "Assets/Sprites/Characters/Toby/\u0422\u043E\u0431\u0438 \u043F\u0435\u0447\u0430\u043B\u044C\u043D\u044B\u0439
+      \u0432 \u0445\u0430\u043B\u0430\u0442\u0435.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: efd267e7bf35f974bb6c77baf80b7078
+    m_Address: "Assets/Sprites/Characters/Toby/\u0422\u043E\u0431\u0438 \u0443\u0441\u0442\u0430\u0432\u0448\u0438\u0439
+      \u0432 \u0445\u0430\u043B\u0430\u0442\u0435.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 35b0b7f44411a4ea2a42db9bd89d0a3a
+    m_Address: "\u0441\u0438\u043B\u0443\u0435\u0442 \u043F\u0430\u0446\u0438\u0435\u043D\u0442\u043A\u0430
+      1111"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7673c5eab090f594cb45a0809243fd95
+    m_Address: "Assets/Sprites/Characters/Toby/\u0422\u043E\u0431\u0438 \u0440\u0430\u0434\u043E\u0441\u0442\u043D\u044B\u0439
+      \u0432 \u0445\u0430\u043B\u0430\u0442\u0435.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f5d195f231a9b7443907b242940fce45
+    m_Address: "Assets/Sprites/Characters/Leona/\u041B\u0435\u043E\u043D\u0430 \u0443\u0441\u0442\u0430\u0432\u0448\u0430\u044F
+      \u0432 \u0444\u043E\u0440\u043C\u0435.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7ac6b567064967a42a624bf0a596f4b5
+    m_Address: "Assets/Sprites/Characters/Leona/\u041B\u0435\u043E\u043D\u0430 \u0441\u043F\u043E\u043A\u043E\u0439\u043D\u0430\u044F
+      \u0432 \u0444\u043E\u0440\u043C\u0435.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 29efcbb65a8f60646949b2c6fec7eaef
+    m_Address: "Assets/Sprites/Characters/Leona/\u041B\u0435\u043E\u043D\u0430 \u0440\u0430\u0434\u043E\u0441\u0442\u043D\u0430\u044F
+      \u0432 \u0444\u043E\u0440\u043C\u0435.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3a58fe3295035634e9d2aa8e950ff73f
+    m_Address: "Assets/Sprites/Characters/James/\u0414\u0436\u0435\u0439\u043C\u0441
+      \u0441\u043F\u043E\u043A\u043E\u0439\u043D\u044B\u0439.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6b1eebbfeb95f814f839def6e5847a14
+    m_Address: "Assets/Sprites/Characters/James/\u0414\u0436\u0435\u0439\u043C\u0441
+      \u0445\u043C\u0443\u0440\u044B\u0439.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b319ac3ede59b97448aedaae00c9b4b2
+    m_Address: "Assets/Sprites/Characters/James/\u0414\u0436\u0435\u0439\u043C\u0441
+      \u0442\u0440\u0435\u0432\u043E\u0436\u043D\u044B\u0439.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3b17160f084db27458e1c7f230c95333
+    m_Address: "Assets/Sprites/Characters/James/\u0414\u0436\u0435\u0439\u043C\u0441
+      \u0440\u0430\u0434\u043E\u0441\u0442\u043D\u044B\u0439.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 555c6c9e84fda4cafa5225f09f7ed851
+    m_Address: "Assets/Sprites/Characters/Kat/In Bal/\u041A\u044D\u0442 \u0441\u043F\u043E\u043A\u043E\u0438\u0306\u043D\u0430\u044F
+      \u0431\u0430\u043B \u0441\u043B\u043E\u0436\u0435\u043D\u043D\u044B\u0435 \u0440\u0443\u043A\u0438.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0fedda4705c4743818921ddcebf88821
+    m_Address: "Assets/Sprites/Characters/Leona/\u041B\u0435\u043E\u043D\u0430 \u0441\u043F\u043E\u043A\u043E\u0438\u0306\u043D\u0430\u044F
+      \u0431\u0430\u043B.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c148b3526139c499591c32ba90b3e30d
+    m_Address: "Assets/Sprites/Characters/Kat/In Bal/\u041A\u044D\u0442 \u0440\u0430\u0434\u043E\u0441\u0442\u043D\u0430\u044F
+      \u0431\u0430\u043B \u0440\u0443\u043A\u0438 \u0432\u0434\u043E\u043B\u044C.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9eb54d2a09f4945b5ae9ea55a9ea617c
+    m_Address: "Assets/Sprites/Characters/Leona/\u041B\u0435\u043E\u043D\u0430 \u0443\u0434\u0438\u0432\u043B\u0435\u043D\u0430
+      \u0431\u0430\u043B.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f50aa432093e4404aa527ffa666087b9
+    m_Address: "Assets/Sprites/Characters/Kat/In Bal/\u041A\u044D\u0442 \u0441\u043C\u0443\u0449\u0435\u0308\u043D\u043D\u0430\u044F
+      \u0431\u0430\u043B \u0440\u0443\u043A\u0438 \u043D\u0430 \u0433\u0440\u0443\u0434\u044C.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 877364f332e9842a4a124bf28ac8cdd2
+    m_Address: "Assets/Sprites/Characters/Kat/In Bal/\u041A\u044D\u0442 \u0443\u0434\u0438\u0432\u043B\u0451\u043D\u043D\u0430\u044F
+      \u0431\u0430\u043B \u0440\u0443\u043A\u0438 \u043D\u0430 \u0433\u0440\u0443\u0434\u044C.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 95b4e60c811b54d3da1b03912428027d
+    m_Address: "Assets/Sprites/Characters/Leona/\u041B\u0435\u043E\u043D\u0430 \u0445\u043C\u0443\u0440\u0430\u044F
+      \u0431\u0430\u043B.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 29f02085811cf4bcaa608fdb45b5cda6
+    m_Address: "Assets/Sprites/Characters/Kat/In Uniform/\u041A\u044D\u0442 \u0441\u043F\u043E\u043A\u043E\u0438\u0306\u043D\u0430\u044F
+      \u0432 \u0444\u043E\u0440\u043C\u0435 \u0441\u043B\u043E\u0436\u0435\u043D\u043D\u044B\u0435
+      \u0440\u0443\u043A\u0438.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7159a6fccb9e0428ab6b6677e6b542f8
+    m_Address: "Assets/Sprites/Characters/Kat/In Uniform/\u041A\u044D\u0442 \u0441\u043F\u043E\u043A\u043E\u0438\u0306\u043D\u0430\u044F
+      \u0432 \u0444\u043E\u0440\u043C\u0435 \u0440\u0443\u043A\u0438 \u0432 \u0441\u0442\u043E\u0440\u043E\u043D\u044B.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d624a704ecff343a3993b10eb1c5ce5a
+    m_Address: "Assets/Sprites/Characters/Kat/In Bal/\u041A\u044D\u0442 \u0441\u043F\u043E\u043A\u043E\u0438\u0306\u043D\u0430\u044F
+      \u0431\u0430\u043B \u0440\u0443\u043A\u0438 \u043D\u0430 \u0433\u0440\u0443\u0434\u044C.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d29b8d5b64fe54f7bbf6ebe5866f49bf
+    m_Address: "Assets/Sprites/Characters/Kat/In Bal/\u041A\u044D\u0442 \u0443\u0434\u0438\u0432\u043B\u0435\u0308\u043D\u043D\u0430\u044F
+      \u0431\u0430\u043B \u0440\u0443\u043A\u0438 \u0432\u0434\u043E\u043B\u044C.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d4fa91bd6773e48af805da0b8eb0c2b7
+    m_Address: "Assets/Sprites/Characters/Kat/In Bal/\u041A\u044D\u0442 \u0440\u0430\u0434\u043E\u0441\u0442\u043D\u0430\u044F
+      \u0431\u0430\u043B \u0440\u0443\u043A\u0438 \u043D\u0430 \u0433\u0440\u0443\u0434\u0438.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d275d9fb4c33145e1a2e6d7129e5153c
+    m_Address: "Assets/Sprites/Characters/Kat/In Bal/\u041A\u044D\u0442 \u0433\u0440\u0443\u0441\u0442\u043D\u0430\u044F
+      \u0431\u0430\u043B.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e50a8ad2f4bfd4832a3e50d5ca913306
+    m_Address: "Assets/Sprites/Arts/\u043D\u0430 \u0431\u0430\u043B\u0443.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2a2e35dd036ccb04f87d572ea8a15e5b
+    m_Address: "Assets/Sprites/Characters/Vincent/\u0412\u0438\u043D\u0441\u0435\u043D\u0442
+      \u0433\u0440\u0443\u0441\u0442\u043D\u044B\u0439 \u043F\u0438\u0434\u0436\u0430\u043A
+      1.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b6199c8909ee9bf4fb7e0cc9d08c60a2
+    m_Address: "Assets/Sprites/Characters/Vincent/\u0412\u0438\u043D\u0441\u0435\u043D\u0442
+      \u0441\u043F\u043E\u043A\u043E\u0439\u043D\u044B\u0439 \u043F\u0438\u0434\u0436\u0430\u043A
+      1.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d77ce5f6f1e384daeb6ee5b5292c0e18
+    m_Address: "Assets/Sprites/Characters/Toby/\u0422\u043E\u0431\u0438 \u0441\u043F\u043E\u043A\u043E\u0438\u0306\u043D\u044B\u0438\u0306
+      \u0432 \u043F\u0438\u0434\u0436\u0430\u043A\u0435 \u0440\u043E\u0442 \u0437\u0430\u043A\u0440\u044B\u0442.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 11fc690ffcb52bf41bf0c6cee3b484e4
+    m_Address: "Assets/Sprites/Characters/Toby/\u0422\u043E\u0431\u0438 \u0441\u043C\u0443\u0449\u0451\u043D\u043D\u044B\u0439
+      \u0432 \u043F\u0438\u0434\u0436\u0430\u043A\u0435.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b26e3bf7275fe4b85a1ba3153379ddc5
+    m_Address: "Assets/Sprites/Backgrounds/\u041A\u0432\u0430\u0440\u0442\u0438\u0440\u0430
+      \u0414\u0436\u0435\u0438\u0306\u043C\u0441\u0430 \u043D\u043E\u0447\u044C\u044E.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fe827936173edbc4580ff365d0b48993
+    m_Address: "Assets/Sprites/Characters/Toby/\u0422\u043E\u0431\u0438 \u0440\u0430\u0434\u043E\u0441\u0442\u043D\u044B\u0439
+      \u0432 \u043F\u0438\u0434\u0436\u0430\u043A\u0435.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4d826c9d729c342c2915f35b23244078
+    m_Address: "Assets/Sprites/Characters/Evona Fallax/\u042D\u0432\u043E\u043D\u0430
+      \u0441\u043F\u043E\u043A\u043E\u0438\u0306\u043D\u0430\u044F \u0431\u0430\u043B.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: af8f971dfc70d45e3bdd94b9cfccfd2c
+    m_Address: "Assets/Sprites/Characters/Kat/In Ball/\u041A\u044D\u0442 \u0442\u0440\u0435\u0432\u043E\u0436\u043D\u0430\u044F
+      \u0431\u0430\u043B \u0441\u043B\u043E\u0436\u0435\u043D\u043D\u044B\u0435 \u0440\u0443\u043A\u0438.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ae58e99e9b31b491695f311ef4ab434e
+    m_Address: "Assets/Sprites/Characters/Kat/In Ball/\u041A\u044D\u0442 \u0440\u0430\u0441\u0442\u0435\u0440\u044F\u043D\u043D\u0430\u044F
+      \u0431\u0430\u043B.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 38c7d3661b6a54a8a96a96ec0e868cf2
+    m_Address: "Assets/Sprites/Characters/Evona Fallax/\u042D\u0432\u043E\u043D\u0430
+      \u0443\u0434\u0438\u0432\u043B\u0435\u0308\u043D\u043D\u0430\u044F \u0431\u0430\u043B.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e77d4d7a3662d45a8a3241e35605458d
+    m_Address: "Assets/Sprites/Characters/Leona/\u041B\u0435\u043E\u043D\u0430 \u0438\u0441\u043F\u0443\u0433\u0430\u043D\u043D\u0430\u044F
+      \u0431\u0430\u043B.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b02fb73d5e38e46f7b99631be8bc2b10
+    m_Address: "Assets/Sprites/Characters/Kat/In Ball/\u041A\u044D\u0442 \u0438\u0441\u043F\u0443\u0433\u0430\u043D\u043D\u0430\u044F
+      \u0431\u0430\u043B.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cfdc795b281284cd8ad786404d96de52
+    m_Address: "Assets/Sprites/Characters/Kat/In Ball/\u041A\u044D\u0442 \u0442\u0440\u0435\u0432\u043E\u0436\u043D\u0430\u044F
+      \u0431\u0430\u043B \u0440\u0443\u043A\u0438 \u043D\u0430 \u0433\u0440\u0443\u0434\u044C.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 20bf923cc775242bca1385e4970b581e
+    m_Address: "Assets/Sprites/Characters/Other/\u0421\u0438\u043B\u0443\u0435\u0442
+      \u0410\u0440\u0447\u0438.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a2a3b90ad64924caa9d800880cefbf0a
+    m_Address: "Assets/Sprites/Characters/Other/\u0421\u0438\u043B\u0443\u0435\u0442
+      \u0410\u0440\u0447\u0438 \u0441 \u0443\u043B\u044B\u0431\u043A\u043E\u0438\u0306.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 32676e63b2e634db6a4cbfe8d6a27d8a
+    m_Address: "Assets/Sprites/Arts/\u0410\u0437\u043E\u0440\u0438\u043D\u0442.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e31e6713cf1e64ab5976b7c073b9ed5e
+    m_Address: "Assets/Sprites/Backgrounds/\u041A\u043E\u043C\u043D\u0430\u0442\u0430
+      \u043E\u0442\u0434\u044B\u0445\u0430 \u043F\u0435\u0440\u0441\u043E\u043D\u0430\u043B\u0430
+      \u0432\u0435\u0447\u0435\u0440\u043E\u043C.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6364f3359c2644b129991e86eb554c5a
+    m_Address: "Assets/Sprites/Arts/\u0422\u043E\u0431\u0438 \u0438 \u041A\u044D\u0442.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 17a3cfb62824646c79b4de4fe08cb803
+    m_Address: "Assets/Sprites/Backgrounds/\u043A\u043E\u043D\u0446\u043E\u0432\u043A\u0430
+      \u0434\u0435\u043C\u043E.png"
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 6a257bc30e9ceea4c85b5cad694020db, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 3b742f1b2f48a8c41a9911515bd7ef06, type: 2}
+    - {fileID: 11400000, guid: f8a07c053937ddb46bf620f0b37aa76e, type: 2}

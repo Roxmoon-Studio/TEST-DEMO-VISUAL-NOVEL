@@ -1,0 +1,20 @@
+{
+    "name": "Core.Actions.Editor",
+    "rootNamespace": "",
+    "references": [
+        "XNodeEditor",
+        "Core.Actions",
+        "XNode"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
